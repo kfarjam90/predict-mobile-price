@@ -1,5 +1,7 @@
 # 📱 Noise-Resilient Mobile Price Classification
-![Noise-Resilient Mobile Price Classification](image.jpg)
+### Demo Video
+
+[![Watch the demo video](image.png)](https://www.youtube.com/watch?v=uGOlgEpbFEE)
 
 ## 🌐 Overview
 In the ever-competitive mobile industry where giants like Apple and Samsung dominate, starting a mobile company presents unique challenges. One of the pivotal challenges is estimating the right price for the mobile phones. In this project, we harness sales data from various companies aiming to discern a relationship between mobile features, such as RAM and internal memory, and its selling price. Our endeavor is not to predict the actual price but to discern a price range, allowing us to determine how high the price is likely to be. With the aid of machine learning, we aim to better estimate our mobile phones' pricing, positioning ourselves effectively against the competition.
