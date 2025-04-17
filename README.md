@@ -70,4 +70,4 @@ Access the dataset on Kaggle [here](https://www.kaggle.com/datasets/iabhishekoff
 
 ## 🔗 Additional Resources
 - **Kaggle Notebook**: Interested in a Kaggle environment? Check out the notebook [here](https://www.kaggle.com/parhamfarjam).
-- **LinkedIn**: [Farzad Nekouei's Profile](https://www.linkedin.com/in/karim-farjam-a6b72549/)
+- **LinkedIn**: [Karim Farjam's Profile](https://www.linkedin.com/in/karim-farjam-a6b72549/)
